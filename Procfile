@@ -1,1 +1,1 @@
-web: python SATISH.py
+web: python FARISHTA.py
